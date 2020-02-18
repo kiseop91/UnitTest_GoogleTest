@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Joseph\source\repos\UnitTest_gTest_Study\x64\Debug\Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="덧셈함수테스트.int형넣기" Duration="1" />
+    <TestDuration Test="덧셈함수테스트.float형넣기" Duration="1" />
+    <TestDuration Test="덧셈함수테스트.double형넣기" Duration="1" />
+    <TestDuration Test="문자열테스트.두문자열은같다" Duration="1" />
+    <TestDuration Test="문자열테스트.두문자열은다르다" Duration="1" />
+    <TestDuration Test="산술연산자.다르다" Duration="1" />
+    <TestDuration Test="산술연산자.왼쪽이작다" Duration="1" />
+    <TestDuration Test="산술연산자.왼쪽이작거나같다" Duration="1" />
+    <TestDuration Test="산술연산자.오른쪽이작다" Duration="1" />
+    <TestDuration Test="산술연산자.오른쪽이작거나같다" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

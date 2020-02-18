@@ -1,0 +1,5 @@
+﻿main.obj : error LNK2019: "public: static class testing::UnitTest * __cdecl testing::UnitTest::GetInstance(void)" (?GetInstance@UnitTest@testing@@SAPAV12@XZ) 외부 기호(참조 위치: "int __cdecl RUN_ALL_TESTS(void)" (?RUN_ALL_TESTS@@YAHXZ) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: "public: int __thiscall testing::UnitTest::Run(void)" (?Run@UnitTest@testing@@QAEHXZ) 외부 기호(참조 위치: "int __cdecl RUN_ALL_TESTS(void)" (?RUN_ALL_TESTS@@YAHXZ) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: "void __cdecl testing::InitGoogleTest(int *,char * *)" (?InitGoogleTest@testing@@YAXPAHPAPAD@Z) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\Joseph\source\repos\UnitTest_gTest_Study\vendor\gtestd.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\Joseph\source\repos\UnitTest_gTest_Study\Debug\Test.exe : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.
